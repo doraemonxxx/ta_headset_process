@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T17:16:03.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="NFMCl5Pe-5gmwckC3bTU" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-30T17:21:42.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Cg9zQwd9ZvFrrkMm-hTW" version="20.5.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="TA headset flow">
     <mxGraphModel dx="3220" dy="2115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -278,6 +278,9 @@
         </mxCell>
         <mxCell id="W0TnTIAlO2WUdxyteWXw-70" value="Report to HR or workforce" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-595" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ni8Pl4lUDhc4EJ3kuC5a-6" value="collect serial number" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="210" width="180" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
