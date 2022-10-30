@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T14:03:25.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="jdAbQkc_wyyzCaJXSdRA" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-30T15:59:14.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="S6QrwzDgeAhPF8lmhfeb" version="20.5.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="TA headset flow">
-    <mxGraphModel dx="2393" dy="2115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3064" dy="2430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -30,9 +30,6 @@
         <mxCell id="eJ8aoX2-yi3u51zo6abQ-6" value="if&amp;nbsp; FTE = total of headsets" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="300" width="134" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="eJ8aoX2-yi3u51zo6abQ-9" value="IT head will approve the request" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-270" y="1070" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="y8-4keH_szGaTHuehrJC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eJ8aoX2-yi3u51zo6abQ-6" target="y8-4keH_szGaTHuehrJC-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -47,9 +44,6 @@
         </mxCell>
         <mxCell id="eJ8aoX2-yi3u51zo6abQ-15" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="360" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eJ8aoX2-yi3u51zo6abQ-16" value="IT will make an email request" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-230" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y8-4keH_szGaTHuehrJC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="y8-4keH_szGaTHuehrJC-0" target="eJ8aoX2-yi3u51zo6abQ-4">
           <mxGeometry relative="1" as="geometry" />
@@ -170,7 +164,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7S0KSX0cvyedDRUz2MgL" name="technical_process_flow">
-    <mxGraphModel dx="1566" dy="2546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="2409" dy="3055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
