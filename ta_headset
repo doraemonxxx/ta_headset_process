@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T15:59:14.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="S6QrwzDgeAhPF8lmhfeb" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-30T16:02:09.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="esI-anW_38h_Js56LvFR" version="20.5.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="TA headset flow">
-    <mxGraphModel dx="3064" dy="2430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3064" dy="2520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -164,7 +164,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7S0KSX0cvyedDRUz2MgL" name="technical_process_flow">
-    <mxGraphModel dx="2409" dy="3055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1648" dy="2596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,6 +179,9 @@
         </mxCell>
         <mxCell id="M8opegZcxwg2jz4fSnKT-2" value="Agent report the encountered issue" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fOg_WS3Czlrj3SY8lhh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M8opegZcxwg2jz4fSnKT-4" target="M8opegZcxwg2jz4fSnKT-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M8opegZcxwg2jz4fSnKT-4" value="Report to Team Leader" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="130" width="120" height="60" as="geometry" />
